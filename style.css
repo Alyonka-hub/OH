@@ -1,0 +1,239 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f5f7fa;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: Verdana;
+}
+
+.wrapper {
+  background-color: #ffffff;
+  display: flex;
+  max-width: 1300px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
+}
+
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.my-photo {
+  width: 370px;
+}
+
+.about-me-conteiner {
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 110px;
+  padding-bottom: 110px;
+}
+
+.contacts {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+}
+
+.contact-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.contact-link {
+  color: #434c5a;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.contact-link-type {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.contact-title-type-link {
+  margin-bottom: 10px;
+}
+
+.Main-directions-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.Main-directions {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.Main-directions-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.Main-directions-text {
+  color: #d8dadd;
+}
+
+.Soft-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.Soft-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 55px;
+}
+
+.Soft-skills-item {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.Soft-skills-text {
+  color: #d8dadd;
+}
+
+.Profession {
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 28px;
+  color: #000000;
+  margin-bottom: 20px;
+}
+
+.Full-name {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 89px;
+  color: #000000;
+}
+
+.Discription {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 20px;
+}
+
+.about-me {
+  margin-bottom: 65px;
+}
+
+.about-me-title {
+  color: #000000;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 15px;
+}
+
+.Projects-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.data {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.dots {
+  color: #595959;
+  font-weight: 100;
+}
+
+.Projects-item {
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.Projects-conteiner {
+  margin-bottom: 65px;
+}
+
+.profession-title {
+  color: #000000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.profession-company-and-study {
+  color: #ff6b08;
+}
+
+.time {
+  color: #a8a8a8;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 14px;
+}
+
+.profession-divired {
+  color: #000000;
+}
+
+.profession-duties {
+  margin-top: 14px;
+  margin-bottom: 30px;
+}
+
+.profession-duties-item {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-left: 20px;
+}
+
+.stydy {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.stydy-item {
+  margin-left: 20px;
+}
